@@ -1,44 +1,8 @@
 {
-  "title": "\"Пока без названия\"",
-  "description": "",
-  "artist": "Мари",
+  "title": "\"Пока без названия\" free",
+  "description": "История о том как паренек Коля все потерял и пошел по миру сукин сын... ",
+  "artist": "Мария.",
   "author": "Роланд Лем",
-  "cover": "",
-  "chapters": {
-    "1": {
-      "title": "Первая глава",
-      "volume": "",
-      "last_updated": "1705244255",
-      "groups": {
-        "": [
-          "https://sun9-69.userapi.com/impg/u_NJhAofIP53FMqCLTXeSH7Q7XwZEfMeqA_bJQ/wu_cDdGSiKI.jpg?size=476x476&quality=96&sign=878a80a201f2fb791ded7a53c5ad2736&type=album",
-          "https://sun9-79.userapi.com/impg/G2ImH3veWP_MuasYatgwEZlmd4uMX_eh3nnDew/sK2R9JHjnNM.jpg?size=693x830&quality=96&sign=87f62beae3b21fbdbf942aec1154b996&type=album",
-          "https://sun9-60.userapi.com/impg/K4UWgUALDGs_RLOG0IblJ6140cbwpuwMcBLPtA/7O-OFbmMc5Y.jpg?size=859x568&quality=96&sign=195d36374f4bb7cc490cd0c0881c5aff&type=album"
-        ]
-      }
-    },
-    "2": {
-      "title": "хуй 2 ",
-      "volume": "",
-      "last_updated": "1705245209",
-      "groups": {
-        "": [
-          "https://sun9-43.userapi.com/impg/GrdeQ0QwkuXkPExWQZHgcTP69L-06fyfSflw9g/QJvF67pAkPo.jpg?size=710x716&quality=96&sign=35fd8758d0d9925508e17a2946b74b80&type=album",
-          "https://sun9-37.userapi.com/impg/tuuLydA0JznfL4FAf_rfU2N7bIeWgs6cjlf-rA/NM9YiSkt1Fg.jpg?size=1224x166&quality=96&sign=5cd3ed59ba20771516891e440532e081&type=album"
-        ]
-      }
-    },
-    "3": {
-      "title": "3",
-      "volume": "",
-      "last_updated": "1705245879",
-      "groups": {
-        "": [
-          "https://sun9-10.userapi.com/impg/AavW9IJx5TuCGMKs1_W6QoMCIqzBBvBUYZZpoA/R8iz48l4nwg.jpg?size=807x454&quality=95&sign=4e26b4f8d44f70f3411e55d3bcd088d5&type=album",
-          "https://sun9-59.userapi.com/impg/2QSQmGB4TW7Z4X30CLtrEIle7pXDSscSZibgHg/ylPYBC3CuDo.jpg?size=807x454&quality=95&sign=43ab55317cc8cad6c57c6ebf31f37104&type=album",
-          ""
-        ]
-      }
-    }
-  }
+  "cover": "https://sun9-49.userapi.com/impg/CSxsR1KHOL2KzQUKhat1bUrFxjDWYYDpA3u6tQ/8CrBg007ZaA.jpg?size=1024x1694&quality=95&sign=b7507a44e21e84898f46935f7f146409&type=album",
+  "chapters": {}
 }

@@ -1,32 +1,19 @@
 {
   "title": "Пока без названия",
   "description": "",
-  "artist": "Mari ",
-  "author": "Roland Lem",
+  "artist": "Маша",
+  "author": "Роланд Лем",
   "cover": "",
   "chapters": {
     "1": {
-      "title": "1",
-      "volume": "1",
-      "last_updated": "1705243070",
+      "title": "",
+      "volume": "",
+      "last_updated": "1705243484",
       "groups": {
-        "": "https://cubari.moe/read/imgur/V53aEx6/1/1/"
-      }
-    },
-    "2": {
-      "title": "2",
-      "volume": "1",
-      "last_updated": "1705243137",
-      "groups": {
-        "": "https://cubari.moe/read/imgur/mWgYs9S/1/1/"
-      }
-    },
-    "3": {
-      "title": "3",
-      "volume": "1",
-      "last_updated": "1705243170",
-      "groups": {
-        "": "https://cubari.moe/read/imgur/Hfq9Ngt/"
+        "": [
+          "https://drive.google.com/uc?export=view&id=1tEf8nBp1nnbaf_HA34tmE90voguHE8-1",
+          "https://drive.google.com/uc?export=view&id=1T-MWe3g3XTUyoihSfWyFDcHI7iBK59Fk"
+        ]
       }
     }
   }
